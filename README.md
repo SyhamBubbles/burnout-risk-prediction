@@ -17,6 +17,10 @@ Model dilatih menggunakan 461.580 profil pengguna, hasil cleaning dari 500.000 s
 
 https://www.kaggle.com/datasets/aiexplorer77/digital-burnout-and-productivity-analytics
 
+atau
+
+https://drive.google.com/file/d/1zElwl__CznsG01FbkxfcduvzlVZqcxzP/view?usp=sharing
+
 Dataset asli tidak disertakan dalam repository ini karena ukurannya melebihi batas GitHub. Model yang sudah dilatih (file .pkl) dan dashboard Streamlit (app.py) tidak membutuhkan dataset ini, jadi langsung bisa dijalankan.
 
 Dataset hanya diperlukan jika ingin menjalankan ulang notebook Burnout_PredictionNew.ipynb dari awal (training ulang). Caranya:
