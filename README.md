@@ -1,6 +1,6 @@
 # Burnout Risk Prediction and Personalized Recovery Recommendation System
 
-Sistem prediksi risiko burnout berbasis Machine Learning dengan pendekatan dua lapis (klasifikasi dan clustering), dilengkapi penjelasan SHAP dan rekomendasi recovery yang dipersonalisasi. Proyek ini dikembangkan sebagai capstone project pada program Tempa Dicoding (AI Track).
+Sistem prediksi risiko burnout berbasis Machine Learning dengan pendekatan dua lapis (klasifikasi dan clustering), dilengkapi penjelasan SHAP dan rekomendasi recovery yang dipersonalisasi. Proyek ini dikembangkan sebagai capstone project pada program Tempa Dicoding (Artificial Intelligence).
 
 ## Tentang Proyek
 
@@ -13,7 +13,17 @@ Dashboard ini menganalisis kebiasaan digital, pola kerja, dan kondisi mental ses
 
 ## Dataset
 
-Model dilatih menggunakan 461.580 profil pengguna, hasil cleaning dari 500.000 sampel acak dari dataset publik Digital Burnout & Productivity Analytics (5 juta baris) di Kaggle. Dataset asli tidak disertakan dalam repository ini karena ukurannya melebihi batas GitHub.
+Model dilatih menggunakan 461.580 profil pengguna, hasil cleaning dari 500.000 sampel acak dari dataset publik Digital Burnout & Productivity Analytics (5 juta baris) di Kaggle.
+
+https://www.kaggle.com/datasets/aiexplorer77/digital-burnout-and-productivity-analytics
+
+Dataset asli tidak disertakan dalam repository ini karena ukurannya melebihi batas GitHub. Model yang sudah dilatih (file .pkl) dan dashboard Streamlit (app.py) tidak membutuhkan dataset ini, jadi langsung bisa dijalankan.
+
+Dataset hanya diperlukan jika ingin menjalankan ulang notebook Burnout_PredictionNew.ipynb dari awal (training ulang). Caranya:
+
+1. Download dataset dari link Kaggle di atas
+2. Simpan file CSV di folder yang sama dengan notebook
+3. Jalankan notebook dengan Run All
 
 ## Model
 
