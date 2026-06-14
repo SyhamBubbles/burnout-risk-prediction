@@ -1,0 +1,17 @@
+# Dataset besar (tidak diupload karena ukurannya melebihi limit GitHub)
+digital_burnout_productivity_dataset_5M*.csv
+*.csv
+
+# File sementara Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# File environment / virtualenv
+.venv/
+venv/
+env/
+
+# File sistem
+.DS_Store
+Thumbs.db

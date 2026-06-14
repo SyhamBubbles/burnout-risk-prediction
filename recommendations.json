@@ -1,0 +1,38 @@
+{
+  "0": {
+    "nama": "Zona Distraksi",
+    "deskripsi": "Kondisimu cukup stabil dari segi kepuasan kerja dan tidur, tapi kebiasaan digital seperti doomscrolling dan begadang main HP membuat motivasi dan fokusmu menurun.",
+    "rekomendasi": [
+      "Coba teknik Pomodoro (25 menit fokus, 5 menit istirahat) untuk membangun ritme kerja",
+      "Set batas waktu harian untuk media sosial menggunakan fitur screen time di HP",
+      "Mulai hari dengan satu target kecil yang jelas untuk membangun momentum"
+    ]
+  },
+  "1": {
+    "nama": "Zona Rentan",
+    "deskripsi": "Kamu termotivasi dan terus berusaha, tapi tingkat stres yang tinggi dan kepuasan kerja yang rendah membuatmu paling rentan terhadap burnout.",
+    "rekomendasi": [
+      "Evaluasi ulang beban kerja, apakah realistis dengan waktu yang tersedia",
+      "Sisipkan jeda singkat (5-10 menit) setiap 1-2 jam kerja, bukan hanya saat lelah",
+      "Bicarakan dengan atasan, mentor, atau teman tentang tekanan yang dirasakan"
+    ]
+  },
+  "2": {
+    "nama": "Zona Seimbang",
+    "deskripsi": "Kondisimu secara umum sehat dan seimbang. Pertahankan kebiasaan baik yang sudah berjalan.",
+    "rekomendasi": [
+      "Pertahankan rutinitas tidur dan kerja yang sudah berjalan baik",
+      "Sesekali evaluasi diri untuk memastikan tidak ada perubahan kebiasaan ke arah negatif",
+      "Bagikan kebiasaan baikmu ke teman yang mungkin membutuhkan"
+    ]
+  },
+  "3": {
+    "nama": "Zona Kurang Istirahat",
+    "deskripsi": "Banyak aspek kondisimu cukup baik, tapi kebiasaan begadang dengan gadget mengurangi kualitas tidur dan kemampuan fokusmu.",
+    "rekomendasi": [
+      "Terapkan digital sunset, matikan layar 30-60 menit sebelum tidur",
+      "Letakkan HP di luar jangkauan tempat tidur saat malam",
+      "Coba aktivitas relaksasi sebelum tidur seperti membaca atau journaling"
+    ]
+  }
+}
