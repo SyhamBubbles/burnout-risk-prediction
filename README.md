@@ -1,6 +1,6 @@
 # Burnout Risk Prediction and Personalized Recovery Recommendation System
 
-Sistem prediksi risiko burnout berbasis Machine Learning dengan pendekatan dua lapis (klasifikasi dan clustering), dilengkapi penjelasan SHAP dan rekomendasi recovery yang dipersonalisasi. Proyek ini dikembangkan sebagai capstone project pada program Tempa Dicoding (AI Track).
+Sistem prediksi risiko burnout berbasis Machine Learning dengan pendekatan dua lapis (klasifikasi dan clustering), dilengkapi penjelasan SHAP dan rekomendasi recovery yang dipersonalisasi. Proyek ini dikembangkan sebagai capstone project pada program Tempa Dicoding (Artificial Intelligence).
 
 ## Tentang Proyek
 
